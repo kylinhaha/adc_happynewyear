@@ -6,6 +6,7 @@
     <color name="yellow">#FF0</color>
     <color name="blue">#00F</color>
     <color name="green">#0F0</color>
+    <color name="red">#F00</color>
     <dimen name="normal_font">24sp</dimen>
     <dimen name="space1">30dip</dimen>
 
